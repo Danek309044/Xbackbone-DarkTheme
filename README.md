@@ -1,14 +1,13 @@
-
-# Xbackbone Dark / CLI / Hacker Theme
+# Xbackbone ReallyDark / Hacker Theme
 Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
+[![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
 
 
-## Set up the theme
+## Setting up the theme
 * Select any theme from the `-- theme-park.dev --` category
 
 * Paste this code into `Custom HTML Head content` on the system page
@@ -19,7 +18,7 @@ Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 ## Screenshots
 
 ### Home
-![Home](https://files.d309044.eu/Yimi1/FOKeQilE91.png/raw)
+![Home](https://files.d309044.eu/Yimi1/QobocirE71.png/raw)
 
 ### Login
 ![Login](https://files.d309044.eu/Yimi1/SAJEGUFi47.png/raw)
@@ -28,7 +27,7 @@ Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 ![EditUsr](https://files.d309044.eu/Yimi1/ZaXAQuLI66.png/raw)
 
 ### System
-![System](https://files.d309044.eu/Yimi1/SAcANaNa62.png/raw)
+![System](https://files.d309044.eu/Yimi1/diRoNEcO71.png/raw)
 
 
 ## Other
