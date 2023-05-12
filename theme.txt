@@ -1,3 +1,4 @@
+<style>
 :root {
     --main-bg-color: #000000;
     
@@ -7,26 +8,26 @@
   
     --drop-down-menu-bg: #131313;
   
-    --button-color: #00ff00;
-    --button-color-hover: #313131;
+    --button-color: #313131;
+    --button-color-hover: #31313159;
     --button-text: #eee;
     --button-text-hover: #FFF;
   
     --accent-color:  80, 250, 123;
     --accent-color-hover: rgb(var(--accent-color),.8);
-    --link-color: #0011ff;
-    --link-color-hover: #1f2a69;
+    --link-color: #3a46e6;
+    --link-color-hover: #6175e277;
     --label-text-color: #282a36;
       
     --text:#f8f8f2;
     --text-hover: #fff;
-    --text-muted: #3a3a3a;
+    --text-muted: #666666;
   
     /*Specials*/
-    --arr-queue-color: #00ff00; /* Servarr apps + Bazarr*/
+    --arr-queue-color: #28A745; /* Servarr apps + Bazarr*/
    }
 
-.bg-light {
+   .bg-light {
     background: var(--main-bg-color) !important;
     background-repeat: repeat, no-repeat;
     background-attachment: fixed, fixed;
@@ -417,7 +418,7 @@ textarea.form-control:focus {
 
 /* CARDS */
 .card {
-    background: var(--transparency-dark-25);
+    background-color: #131313;
 }
 
 .image-card:hover .overlay {
@@ -429,3 +430,4 @@ textarea.form-control:focus {
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
 }
+</style>
