@@ -2,13 +2,13 @@
 # Xbackbone Dark / CLI / Hacker Theme
 Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
 
 
-## Setting up the theme
+## Set up the theme
 * Select any theme from the `-- theme-park.dev --` category
 
 * Paste this code into `Custom HTML Head content` on the system page
