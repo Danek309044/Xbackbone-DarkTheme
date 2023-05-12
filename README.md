@@ -1,5 +1,5 @@
 
-# Xbackbone ReallyDark / Hacker Theme
+# Xbackbone Dark / CLI / Hacker Theme
 Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
