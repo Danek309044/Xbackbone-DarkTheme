@@ -2,9 +2,9 @@
 # Xbackbone ReallyDark / Hacker Theme
 Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-RealDarkness?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-RealDarkness?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
 
 
@@ -13,7 +13,7 @@ Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 
 * Paste this code into `Custom HTML Head content` on the system page
 ```html
-<link type="text/css" rel="Stylesheet" href="https://d309044.eu/Xbackbone-RealDarkness/theme.css"/>
+<link type="text/css" rel="Stylesheet" href="https://d309044.eu/Xbackbone-DarkTheme/theme.css"/>
 ```
     
 ## Screenshots
