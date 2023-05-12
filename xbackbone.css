@@ -8,7 +8,7 @@
     --drop-down-menu-bg: #131313;
   
     --button-color: #00ff00;
-    --button-color-hover: #0011ff;
+    --button-color-hover: #313131;
     --button-text: #eee;
     --button-text-hover: #FFF;
   
@@ -24,11 +24,7 @@
   
     /*Specials*/
     --arr-queue-color: #00ff00; /* Servarr apps + Bazarr*/
-    --plex-poster-unwatched: #333333;
-    --petio-spinner: invert(79%) sepia(27%) saturate(1033%) hue-rotate(74deg) brightness(104%) contrast(96%);/* Made with https://codepen.io/jsm91/embed/ZEEawyZ */
-    --gitea-color-primary-dark-4: 80, 250, 123;
-    --overseerr-gradient: linear-gradient(180deg, rgba(39, 39, 39, 0.17) 0%, rgb(53, 53, 53) 100%);
-    }
+   }
 
 .bg-light {
     background: var(--main-bg-color) !important;
