@@ -7,7 +7,6 @@ This theme is using cmd.exe's dark colors and red, green, blue colors
 ![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
 
-
 ## Setting up the theme
 * Select any theme from the `-- theme-park.dev --` category
 
@@ -15,11 +14,13 @@ This theme is using cmd.exe's dark colors and red, green, blue colors
 ```html
 <link type="text/css" rel="Stylesheet" href="https://d309044.eu/Xbackbone-DarkTheme/themes/<color>-theme.css"/>
 ```
-* Red
+
+## Colors
+### Red
 ![Red](https://files.d309044.eu/Yimi1/lIsUxeRi64.png/raw)
-* Green
+### Green
 ![Green](https://files.d309044.eu/Yimi1/cImeqAvO30.png/raw)
-* Blue
+### Blue
 ![Blue](https://files.d309044.eu/Yimi1/XOmoSibu93.png/raw)
 
 ## Screenshots
