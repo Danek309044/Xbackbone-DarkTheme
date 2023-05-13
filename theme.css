@@ -11,20 +11,20 @@
 /* 			https://github.com/gilbN/theme.park			         */
 
 :root {
-    --main-bg-color: #000000;
+    --main-bg-color: #0C0C0C;
     
-    --modal-bg-color: #131313;
-    --modal-header-color: #131313;
-    --modal-footer-color: #131313;
+    --modal-bg-color: #202020;
+    --modal-header-color: #202020;
+    --modal-footer-color: #202020;
   
-    --drop-down-menu-bg: #131313;
+    --drop-down-menu-bg: #202020;
   
     --button-color: #313131;
     --button-color-hover: #31313159;
     --button-text: #eee;
     --button-text-hover: #FFF;
   
-    --accent-color:  80, 250, 123;
+    --accent-color:  0, 98, 204;
     --accent-color-hover: rgb(var(--accent-color),.8);
     --link-color: #3a46e6;
     --link-color-hover: #6175e277;
@@ -35,7 +35,7 @@
     --text-muted: #666666;
   
     /*Specials*/
-    --arr-queue-color: #28A745; /* Servarr apps + Bazarr*/
+    --arr-queue-color: #0062CC; /* Servarr apps + Bazarr*/
    }
 
    .bg-light {
@@ -365,7 +365,6 @@ a:hover {
 
 .form-control:focus {
     color: var(--text-hover);
-    background: var(--drop-down-menu-bg);
     border-color: rgba(255, 255, 255, .15);
     outline: 0;
     box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
@@ -429,7 +428,7 @@ textarea.form-control:focus {
 
 /* CARDS */
 .card {
-    background-color: #131313;
+    background-color: #202020;
 }
 
 .image-card:hover .overlay {

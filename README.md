@@ -1,5 +1,6 @@
-# Xbackbone Dark / CLI / Hacker Theme
-Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
+# Xbackbone Dark Theme
+## Finally a Xbackbone theme that is dark 👀
+This theme is using cmd.exe's dark colors and blue (#0062CC) color
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
 
@@ -18,16 +19,16 @@ Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 ## Screenshots
 
 ### Home
-![Home](https://files.d309044.eu/Yimi1/QobocirE71.png/raw)
+![Home](https://files.d309044.eu/Yimi1/KOsEPaLo16.png/raw)
 
 ### Login
 ![Login](https://files.d309044.eu/Yimi1/SAJEGUFi47.png/raw)
 
 ### Edit User
-![EditUsr](https://files.d309044.eu/Yimi1/ZaXAQuLI66.png/raw)
+![EditUsr](https://files.d309044.eu/Yimi1/wuteFOFU19.png/raw)
 
 ### System
-![System](https://files.d309044.eu/Yimi1/diRoNEcO71.png/raw)
+![System](https://files.d309044.eu/Yimi1/QozoHiVi90.png/raw)
 
 
 ## Other
@@ -35,4 +36,4 @@ Finally a Xbackbone theme that is dark 👀 (And little bit CLI/Hacker themed)
 * https://github.com/GilbN/theme.park/blob/master/css/theme-options/nord.css
 * https://github.com/GilbN/theme.park/blob/master/css/base/xbackbone/xbackbone-base.css
 ### Contact me
-Send a mail to this addres: danek309044@proton.me
+If you need to contact me, send a email to this addres: danek309044@proton.me
