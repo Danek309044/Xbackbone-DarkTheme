@@ -2,7 +2,7 @@
 ## Finally a Xbackbone theme that is dark 👀
 This theme is using cmd.exe's dark colors and red, green, blue colors
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/Xbackbone-DarkTheme?style=for-the-badge)](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/xbackbone-darktheme?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/github/license/danek309044/Xbackbone-DarkTheme?style=for-the-badge)
 
